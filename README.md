@@ -2,6 +2,12 @@
 
 This is a simple E-Procurement API system built using Laravel.
 
+I choose to use PHP (Laravel) for this test case because :
+
+-   Laravel provides batteries like built in auth, route, validation and Eloquent ORM help us to build API Quickly with clean structure
+-   Security features like CSRF Protection, route middleware and token based auth
+-   Last, because it help me to develop a RESTful API faster and more reliably. But when i develop this case using node.js for example, i need to build everything from scratch, so i need more time to build this simple API.
+
 ## Features
 
 -   User Registration & Login with Sanctum
