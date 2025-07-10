@@ -70,13 +70,13 @@ Password: password
 
 Download and import this file to Postman:
 
-[Download PDF Answers] (docs/BE-TEST_AwalifGhotamichaIrfanSaputra API Collection.json)
+[Download API Collection JSON](./docs/BE-TEST_AwalifGhotamichaIrfanSaputra%20API%20Collection.json)
 
 ## Text Based Answer
 
 A discussion on how to handle CSV imports efficiently (100k+ rows) and prepare for scaling was included in the written PDF response.
 
-[Download PDF Answers] (docs/ScenarioAndSoftSkillTest_AwalifGhotamichaIrfanSaputra.pdf)
+[Download PDF Answers](./docs/ScenarioAndSoftSkillTest_AwalifGhotamichaIrfanSaputra.pdf)
 
 ## License
 
