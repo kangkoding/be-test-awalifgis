@@ -4,21 +4,21 @@ This is a simple E-Procurement API system built using Laravel.
 
 ## Features
 
-- User Registration & Login with Sanctum
-- Role-based User (`user`, `vendor`)
-- Vendor registration (only for vendor role)
-- Product Catalog (CRUD) (only accessible by vendor owner)
-- Token-based authentication
-- Postman collection provided
-- Seeder for dummy vendor & product data
+-   User Registration & Login with Sanctum
+-   Role-based User (`user`, `vendor`)
+-   Vendor registration (only for vendor role)
+-   Product Catalog (CRUD) (only accessible by vendor owner)
+-   Token-based authentication
+-   Postman collection provided
+-   Seeder for dummy vendor & product data
 
 ## Tech Stack
 
-- PHP 8.2
-- Laravel 12.x
-- Laravel Sanctum (API token)
-- MySQL / MariaDB
-- Postman (for API testing)
+-   PHP 8.2
+-   Laravel 12.x
+-   Laravel Sanctum (API token)
+-   MySQL / MariaDB
+-   Postman (for API testing)
 
 ## Installation
 
@@ -70,13 +70,13 @@ Password: password
 
 Download and import this file to Postman:
 
-[Download PDF Answers] (./docs/BE-TEST_AwalifGhotamichaIrfanSaputra API Collection.json)
+[Download PDF Answers] (docs/BE-TEST_AwalifGhotamichaIrfanSaputra API Collection.json)
 
 ## Text Based Answer
 
 A discussion on how to handle CSV imports efficiently (100k+ rows) and prepare for scaling was included in the written PDF response.
 
-[Download PDF Answers] (./docs/ScenarioAndSoftSkillTest_AwalifGhotamichaIrfanSaputra.pdf)
+[Download PDF Answers] (docs/ScenarioAndSoftSkillTest_AwalifGhotamichaIrfanSaputra.pdf)
 
 ## License
 
